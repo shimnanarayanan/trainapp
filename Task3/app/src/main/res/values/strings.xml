@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Task3</string>
+    <string name="list">2</string>
+    <string name="list2">4</string>
+
+
+    <string-array name="quota">
+        <item>GN</item>
+        <item>TQ</item>
+        <item>PT</item>
+        <item>LD</item>
+        <item>DF</item>
+        <item>HO</item>
+        <item>YU</item>
+        <item>DP</item>
+        <item>SS</item>
+        <item>FT</item>
+        <item>PH</item>
+        <item>HP</item>
+
+    </string-array>
+    <string-array name="Class">
+        <item>FC</item>
+        <item>1AC</item>
+        <item>2AC</item>
+        <item>3AC</item>
+        <item>2S</item>
+        <item>3AC</item>
+        <item>SL</item>
+        <item>CC</item>
+        <item>UR</item>
+        <item>1A</item>
+    </string-array>
+
+    <string-array name="versions">
+    <item>nougat</item>
+    <item>oreo</item>
+    <item>android p</item>
+    </string-array>
+
+
+</resources>
